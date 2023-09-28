@@ -241,6 +241,10 @@ footer {
     right: 0;
     top:0;
 }
+.goog-te-gadget .goog-te-combo {
+  margin: 4px 0;
+  padding: 7px !important;
+}
   .goog-te-gadget {
     font-family: arial;
     font-size: 0px !important;
